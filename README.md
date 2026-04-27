@@ -1,4 +1,4 @@
-# E-Commerce Sales & Customer Dashboard ✨
+# E-Commerce Sales & Customer Dashboard 
 
 Dashboard analisis penjualan dan segmentasi pelanggan berbasis **E-Commerce Public Dataset**  
 menggunakan **RFM Analysis (Recency, Frequency, Monetary)** dan divisualisasikan dengan **Streamlit**.
